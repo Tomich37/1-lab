@@ -1,0 +1,1 @@
+# SimpleClassExampl-Не читай меня
