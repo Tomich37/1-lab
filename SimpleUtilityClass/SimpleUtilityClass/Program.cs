@@ -10,10 +10,8 @@ namespace SimpleUtilityClass
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("***** Fun with Static Classes ****\n");
-            TimeUtillClass.PrintDate();
-            TimeUtillClass.PrintTime();
-
+            TimeUtilClass.PrintDate();
+            TimeUtilClass.PrintTime();
             Console.ReadLine();
         }
     }

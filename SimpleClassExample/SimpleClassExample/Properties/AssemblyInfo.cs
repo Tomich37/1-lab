@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // Общие сведения об этой сборке предоставляются следующим набором
 // набора атрибутов. Измените значения этих атрибутов, чтобы изменить сведения,
 // связанные со сборкой.
-[assembly: AssemblyTitle("SimpleUtilityClass")]
+[assembly: AssemblyTitle("SimpleClassExamplе")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("SimpleUtilityClass")]
+[assembly: AssemblyProduct("SimpleClassExamplе")]
 [assembly: AssemblyCopyright("Copyright ©  2018")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // Следующий GUID служит для идентификации библиотеки типов, если этот проект будет видимым для COM
-[assembly: Guid("c1b31625-caaa-452d-b219-f784fdb1b69a")]
+[assembly: Guid("937a9fe9-a263-4aa1-8080-fc81a8e14380")]
 
 // Сведения о версии сборки состоят из следующих четырех значений:
 //

@@ -1,0 +1,7 @@
+Z:\Практика C#\SimpleClassExamplе\SimpleClassExamplе\bin\Debug\SimpleClassExamplе.exe.config
+Z:\Практика C#\SimpleClassExamplе\SimpleClassExamplе\bin\Debug\SimpleClassExamplе.exe
+Z:\Практика C#\SimpleClassExamplе\SimpleClassExamplе\bin\Debug\SimpleClassExamplе.pdb
+Z:\Практика C#\SimpleClassExamplе\SimpleClassExamplе\obj\Debug\SimpleClassExamplе.csprojResolveAssemblyReference.cache
+Z:\Практика C#\SimpleClassExamplе\SimpleClassExamplе\obj\Debug\SimpleClassExamplе.csproj.CoreCompileInputs.cache
+Z:\Практика C#\SimpleClassExamplе\SimpleClassExamplе\obj\Debug\SimpleClassExamplе.exe
+Z:\Практика C#\SimpleClassExamplе\SimpleClassExamplе\obj\Debug\SimpleClassExamplе.pdb

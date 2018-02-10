@@ -1,6 +1,6 @@
-Z:\2 курс\Практика С#\SimpleUtilityClass\SimpleUtilityClass\bin\Debug\SimpleUtilityClass.exe.config
-Z:\2 курс\Практика С#\SimpleUtilityClass\SimpleUtilityClass\bin\Debug\SimpleUtilityClass.exe
-Z:\2 курс\Практика С#\SimpleUtilityClass\SimpleUtilityClass\bin\Debug\SimpleUtilityClass.pdb
-Z:\2 курс\Практика С#\SimpleUtilityClass\SimpleUtilityClass\obj\Debug\SimpleUtilityClass.csproj.CoreCompileInputs.cache
-Z:\2 курс\Практика С#\SimpleUtilityClass\SimpleUtilityClass\obj\Debug\SimpleUtilityClass.exe
-Z:\2 курс\Практика С#\SimpleUtilityClass\SimpleUtilityClass\obj\Debug\SimpleUtilityClass.pdb
+Z:\Практика C#\SimpleUtilityClass\bin\Debug\SimpleUtilityClass.exe.config
+Z:\Практика C#\SimpleUtilityClass\bin\Debug\SimpleUtilityClass.exe
+Z:\Практика C#\SimpleUtilityClass\bin\Debug\SimpleUtilityClass.pdb
+Z:\Практика C#\SimpleUtilityClass\obj\Debug\SimpleUtilityClass.csproj.CoreCompileInputs.cache
+Z:\Практика C#\SimpleUtilityClass\obj\Debug\SimpleUtilityClass.exe
+Z:\Практика C#\SimpleUtilityClass\obj\Debug\SimpleUtilityClass.pdb

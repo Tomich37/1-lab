@@ -10,18 +10,13 @@ namespace StaticDataAndMembers
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("***** Fun with Static Data *****\n");
-            // Создать счет
-            SavingsAccount s1 = new SavingsAccount(50);
-            // Вывести текущую процентную ставку
-            Console.WriteLine("Interest Rate is: {0}", SavingsAccount.GetInterestRate());
+            Console.WriteLine("**** Fun with Static Data ****");
+            SavingAccount s1 = new SavingAccount(50);
+            SavingAccount s2 = new SavingAccount(100);
 
-            // Попытка изменения проц ставки через свойство
-            SavingsAccount.SetInterestRate(0.04);
-            //Создание второго счета
-            SavingsAccount s2 = new SavingsAccount(100);
-
-            Console.WriteLine("Interest Rate is: {0}", SavingsAccount.GetInterestRate());
+            Console.WriteLine("Interest Rate is:{0}", SavingAccount.GetInterestRate());
+            SavingAccount s3 = new SavingAccount(10000.75);
+            Console.WriteLine("Interest Rate is:{0}", SavingAccount.GetInterestRate());
             Console.ReadLine();
         }
     }
